@@ -8,8 +8,8 @@
 #include <unistd.h>
 #include <signal.h>
 
-#define ROW 23 // Number of rows in the game area ROW�G����
-#define COL 12 // Number of columns in the game area COL�G��C
+#define ROW 23 // Number of rows in the game area 
+#define COL 12 // Number of columns in the game area
 
 #define DOWN 80 // Key code for the down arrow
 #define LEFT 75 // Key code for the left arrow
